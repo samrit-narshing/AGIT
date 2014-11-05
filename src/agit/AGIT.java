@@ -15,7 +15,7 @@ public class AGIT {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("AAAAa");
+        System.out.println("AAAAax");
         // TODO code application logic here
     }
     
